@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423209326688",
+    "project_id": "havzuse",
+    "storage_bucket": "havzuse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423209326688:android:8a5405902bda9b01cfcb05",
+        "android_client_info": {
+          "package_name": "com.havause"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423209326688-8k1rq9ojb2ci5qjt44pnpqvrncfs3b5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeayAxzNNkFlUPk3Wro7nQiLfMlVNYjcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423209326688-8k1rq9ojb2ci5qjt44pnpqvrncfs3b5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
